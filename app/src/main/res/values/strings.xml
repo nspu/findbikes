@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FindBikeNantes</string>
+    <string name="remaining_places">Places Restances : %s</string>
+</resources>
